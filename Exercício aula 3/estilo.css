@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+#imagem_fundo {
+    background: url("gota.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+#saiba_mais {
+    text-decoration: none;
+    border: 5px #ffffff double;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    padding: 5px;
+    color:#ffffff;
+}
+.paragrafo{
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    padding: 1%;
+    background-size: cover;
+    text-indent: 30px;
+    text-decoration: none;
+}
+p1{
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    font-weight: bold;
+    padding: 1%;
+    background-size: cover;
+    text-indent: 30px;
+    text-decoration: none;
+}
+h1 {
+    /**background: url(https://thumbs.dreamstime.com/z/projeto-abstrato-do-molde-do-vetor-com-fundo-triangular-geom%C3%A9trico-colorido-para-o-folheto-sites-folheto-71129898.jpg);
+    border: 4px #ffffff solid;**/
+    color:#ffffff;
+    /**text-align: center;**/
+    font-family: 'times new roman';
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right:10%;
+    padding-bottom: 0,9%;
+    font-size: 90px;
+    line-height:1,5px;
+    letter-spacing: 3px;
+}
+h2{
+    color:#ffffff;
+    font-family: 'times new roman';
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 3.0%;
+}
+h3{
+    font-family: 'Times New Roman';
+    border: 3px #ffffff solid;
+    color:#ffffff
+    text-align: center;
+}
+h4{
+    font-family: 'Times New Roman';
+    color: #000000;
+    text-align: left;
+    text-indent: 0;
+    font-size: 30px;
+    border-bottom-style: solid;
+
+}
